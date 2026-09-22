@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Omer Issaharov and I'm a programer from Israel</h2>
+[<h2 align="left">Hi 👋! My name is Omer Issaharov and I'm a programer from Israel</h2>
 
 ###
 
@@ -54,3 +54,4 @@
 <img src="https://raw.githubusercontent.com/omeriss/omeriss/output/snake.svg" alt="Snake animation" />
 
 ###
+](https://github.com/omeriss/omeriss.git)
